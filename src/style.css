@@ -208,4 +208,13 @@ button{
         background-color: #fff;
         border-radius: .8rem;
     }
+    .input-field input{
+        width: 40rem;
+        margin: 1rem;
+        height: 3.4rem;
+        border-color: rgb(219, 219, 219);
+        outline: none;
+        font-size: 1.5rem;
+        border-radius: 0.3rem;
+    }
 }
